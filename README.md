@@ -57,4 +57,12 @@
 2. Jalankan kode :
 
    ```bash
-   python ambacrypt.py
+   python enkrip_dekrip.py
+
+## Extra
+
+Kalian bisa memodifikasi script sesuka kalian, jangan lupa untuk commit! 🎉
+
+<h2>Donate Aku banh</h2>
+
+<a href="https://saweria.co/raiinime"><img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png">
